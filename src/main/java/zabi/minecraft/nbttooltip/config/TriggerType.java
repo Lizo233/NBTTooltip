@@ -3,7 +3,7 @@ package zabi.minecraft.nbttooltip.config;
 import java.util.function.BiFunction;
 
 import net.minecraft.item.Item;
-import net.minecraft.client.itemTooltipType;
+import net.minecraft.client.item.TooltipType;
 import zabi.minecraft.nbttooltip.NBTTooltip;
 
 public enum TriggerType {
